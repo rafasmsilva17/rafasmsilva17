@@ -38,37 +38,38 @@ Aqui estão os principais projetos académicos e pessoais que desenvolvi durante
 *   **Tecnologias:** `Python`, `A* Algorithm`, `NetworkX`
 *   **O que é:** Simulação logística para uma frota de veículos mista (elétricos e combustão) sobre o mapa real de Albufeira.
 *   **Destaque Técnico:** Implementação de uma pesquisa $A^*$ com uma função heurística ponderada personalizada ($H(n)$ combinando distância, tempo e ecologia). Garantiu uma **redução de custos operacionais em cerca de 50%** comparado com uma abordagem Gulosa (*Greedy*), tratando restrições críticas como níveis de bateria.
-*   [Ver Repositório ➡️](https://github.com/RAFAEL_UTILIZADOR/taxigreen)
+*   [Ver Repositório ➡️](https://github.com/rafasmsilva17/taxigreen)
 
 ### ⚽ SIGD — Sistema Integrado de Gestão Desportiva (Boavista FC)
 *   **Tecnologias:** `Java`, `Spring Boot`, `React Native`, `Hibernate`
 *   **O que é:** Um ERP desportivo completo desenhado para o Boavista FC que integra a gestão administrativa, financeira e desportiva num monólito modular assistido por IA.
 *   **Destaque Técnico:** Implementação de segregação estrita de entidades jurídicas (Clube/SAD) na camada de dados e desenvolvimento de um motor de regras de negócio (`SemaforoService`) para validação automática em tempo real da conformidade clínica e contratual dos atletas antes dos treinos/jogos.
-*   [Ver Repositório ➡️](https://github.com/RAFAEL_UTILIZADOR/sigd)
+*   [Ver Repositório ➡️](https://github.com/rafasmsilva17/Sistema-de-Gestao-para-Clube-Desportivo
+)
 
 ### 🍸 Bartomation — Automação de Bar & Interação Digital
 *   **Tecnologias:** `React`, `Tailwind CSS`, `Real-Time DB`, `Spotify API`
 *   **O que é:** Plataforma interativa em tempo real para gestão de eventos e bares.
 *   **Destaque Técnico:** Desenvolvimento de um dashboard reativo de staff focado em pipelines de estados (Preparação ➔ Mistura ➔ Decoração ➔ Entrega), aliado a um algoritmo rigoroso de validação de stock concorrente que bloqueia pedidos no menu do cliente assim que os ingredientes mínimos se esgotam.
-*   [Ver Repositório ➡️](https://github.com/RAFAEL_UTILIZADOR/bartomation)
+*   [Ver Repositório ➡️](https://github.com/rafasmsilva17/bartomation)
 
 ### 🎵 Servidor Spotify — Engenharia de Alto Rendimento (Backend)
 *   **Tecnologias:** `C`, `Estruturas de Dados Avançadas`, `Memory Management`
 *   **O que é:** Motor de backend desenvolvido em C para indexação, carregamento e pesquisa otimizada de grandes catálogos musicais em memória (Unidade Curricular de LI3).
 *   **Destaque Técnico:** Implementação de estruturas de dados customizadas de raiz (Tabelas de Hash com encadeamento) e algoritmos de parsing eficientes para garantir procuras e filtragens com complexidade de tempo constante $O(1)$ sem fugas de memória (*memory leaks*).
-*   [Ver Repositório ➡️](https://github.com/RAFAEL_UTILIZADOR/spotify-c-backend)
+*   [Ver Repositório ➡️](https://github.com/rafasmsilva17/PublicCopy_SpotifyBackend)
 
 ### 🧠 IAGrocery — Motor de Promoções com IA
 *   **Tecnologias:** `Python`, `Machine Learning`, `Pandas`, `Pygame`
 *   **O que é:** Sistema inteligente focado em análise preditiva para retenção (*churn*) de clientes de supermercados e geração de campanhas de marketing direcionadas.
 *   **Destaque Técnico:** Engenharia de atributos (*Feature Engineering*) sobre históricos de compras reais para alimentar modelos preditivos, acionando ofertas personalizadas sempre que a probabilidade calculada ultrapassa um limiar crítico de risco.
-*   [Ver Repositório ➡️](https://github.com/RAFAEL_UTILIZADOR/iagrocery)
+*   [Ver Repositório ➡️](https://github.com/rafasmsilva17/IAGrocery)
 
 ### 🌿 myGarden — Automação de Estufa Inteligente IoT
 *   **Tecnologias:** `Vue.js`, `JavaScript`, `plPGSQL`, `Supabase`
 *   **O que é:** Aplicação Web IoT concebida para a gestão e monitorização de precisão de uma estufa vertical automatizada de 3 níveis.
 *   **Destaque Técnico:** Interligação de submissões manuais com streams de dados de sensores ambientais em tempo real. Modelação da base de dados com triggers em `plPGSQL` para automação reativa do ecossistema.
-*   [Ver Repositório ➡️](https://github.com/RAFAEL_UTILIZADOR/mygarden)
+*   [Ver Repositório ➡️](https://github.com/rafasmsilva17/myGarden)
 
 ---
 
@@ -88,8 +89,8 @@ Aqui estão os principais projetos académicos e pessoais que desenvolvi durante
 ## 📊 Estatísticas de Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAFAEL_UTILIZADOR&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Atividade do Rafael" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFAEL_UTILIZADOR&layout=compact&theme=dark" alt="Linguagens mais utilizadas" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafasmsilva17&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Atividade do Rafael" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasmsilva17&layout=compact&theme=dark" alt="Linguagens mais utilizadas" height="192px"/>
 </p>
 
 ---
@@ -97,5 +98,5 @@ Aqui estão os principais projetos académicos e pessoais que desenvolvi durante
 ## 📫 Conecta-te Comigo
 
 *   📍 Braga, Portugal
-*   💼 [LinkedIn](https://www.linkedin.com/in/TEU_LINKEDIN)
+*   💼 [LinkedIn]([https://www.linkedin.com/in/TEU_LINKEDIN](https://www.linkedin.com/in/rafael-silva-6b1262153/))
 *   ✉️ [E-mail](mailto:rafaelmartinssilva.rs@gmail.com)
