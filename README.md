@@ -51,7 +51,7 @@ Aqui estão os principais projetos académicos e pessoais que desenvolvi durante
 *   **Tecnologias:** `React`, `Tailwind CSS`, `Real-Time DB`, `Spotify API`
 *   **O que é:** Plataforma interativa em tempo real para gestão de eventos e bares.
 *   **Destaque Técnico:** Desenvolvimento de um dashboard reativo de staff focado em pipelines de estados (Preparação ➔ Mistura ➔ Decoração ➔ Entrega), aliado a um algoritmo rigoroso de validação de stock concorrente que bloqueia pedidos no menu do cliente assim que os ingredientes mínimos se esgotam.
-*   [Ver Repositório ➡️](https://github.com/rafasmsilva17/bartomation)
+*   [Ver Site ➡️]([https://bartomation.netlify.app/])
 
 ### 🎵 Servidor Spotify — Engenharia de Alto Rendimento (Backend)
 *   **Tecnologias:** `C`, `Estruturas de Dados Avançadas`, `Memory Management`
